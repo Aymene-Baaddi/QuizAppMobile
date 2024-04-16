@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "681812831634",
+    "project_id": "quizapp-baaddiaymeneg2",
+    "storage_bucket": "quizapp-baaddiaymeneg2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681812831634:android:68a16caf963501e98c654b",
+        "android_client_info": {
+          "package_name": "com.example.quizapp_baaddiaymeneg2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoNPmQdG-2qCiSsIsUtQgA95BCJRt2yv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
